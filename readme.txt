@@ -25,7 +25,7 @@ The sound quality is as good as it's going to get. I've removed countless pops, 
 
 --CREDITS--
 
-Source: Blackadder (all seasons and specials); Owned by BBC; Voiced by Rowan Atkinson, Tony Robinson, and Tim McInnerny, as Blackadder, Baldrick, and Lord Percy Percy respectively.
+Source: Blackadder (all seasons and specials); Owned by BBC; Voiced by Rowan Atkinson, Tony Robinson, and Tim McInnerny, as Blackadder, Baldrick, and Lord Percy Percy respectively. This is a non-profit fancreation intended for private use only.
 
 
 --INSTALLATION--
