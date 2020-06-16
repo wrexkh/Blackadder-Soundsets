@@ -5,7 +5,7 @@ This is a collection of soundsets from the old BBC show 'Blackadder'. Recorded, 
 
 1st soundset:
 
-Titular 'hero' and sometime Elizabethan schmuck, Edmund Blackadder, is ready to assail you with his razor-sharp wit and sardonic responses. Best suited for greedy rogues and plotting court magicians.
+Titular 'hero' and sometime Elizabethan schmuck Edmund Blackadder is ready to assail you with his razor-sharp wit and sardonic responses. Best suited for greedy rogues and plotting court magicians.
 
 
 2nd soundset:
