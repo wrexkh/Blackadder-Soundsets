@@ -15,7 +15,7 @@ Baldrick is the genial dogsbody and steadfast manservant of Edmund Blackadder. A
 
 3rd soundset:
 
-Lord Percy, on the other hand, is a fool, jester, and supremely underappreciated chum! Best suited for bards, rogues, and over-enthusiastic gentry.
+Lord Percy Percy is a fool, jester, and supremely underappreciated chum! Best suited for bards, rogues, and over-enthusiastic gentry.
 
 
 --A QUICK NOTE--
